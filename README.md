@@ -16,7 +16,7 @@ Hello world, I'm kokpheng(KP), a dev from Cambodia 🇰🇭. Currently, I'm a se
 - 👯 I’m looking to collaborate on Mobile Development and Blockchain related project
 - 👨‍💻 I’m looking for joining freelance project
 - 💬 Ask me about Mobile and Web Service
-- 📫 How to reach me: [kokpheng](mail:yinkokpheng@gmail.com)
+- 📫 How to reach me: [kokpheng](mailto:yinkokpheng@gmail.com)
 
 **Languages and Tools:**
 
