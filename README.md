@@ -5,9 +5,9 @@ Hello world, I'm kokpheng(KP), a dev from Cambodia 🇰🇭. Currently, I'm a se
 **Milestones:**
 
 - 2012: Bachelor of Computer Science from 🇰🇭
-- 2016: Senior iOS Instructor at KSHRD
+- 2016: Senior iOS Instructor @ KSHRD
 - 2018: Master's in MIS from 🇰🇷
-- 2020: Senior Software Engineer at TSC
+- 2020: Senior Software Engineer @ TSC
 
 **Personal Stuffs:**
 
