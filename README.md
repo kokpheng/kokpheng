@@ -48,7 +48,7 @@ Hello world, I'm Kokpheng(KP), a dev from Cambodia 🇰🇭. Currently, I'm a se
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Kokpheng's github stats](https://github-readme-stats.vercel.app/api?username=yinkokpheng&show_icons=true&hide_border=true)
+![Kokpheng's github stats](https://github-readme-stats.vercel.app/api?username=kokpheng&show_icons=true&hide_border=true)
 <!--
 
 
