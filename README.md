@@ -2,14 +2,14 @@
 
 <a href="https://github.com/kokpheng"><img width="50%" align="right" alt="Github Artwork" src="https://raw.githubusercontent.com/kokpheng/kokpheng/master/assets/GITHUB_COMMUNITY.png"/></a>
 
-Hello world, I'm Kokpheng(KP), a dev from Cambodia 🇰🇭. Currently, I'm a senior software engineer @ [TSC](https://www.techostartup.center) 🏢. Beside's working, I love Pets 🐶.
+Hello world, I'm Kokpheng(KP), a dev from Cambodia 🇰🇭. Currently, I'm a senior software engineer @ [TSC](https://github.com/Techo-Startup-Center) 🏢. Beside's working, I love Pets 🐶.
 
 **Milestones:**
 
 - 2012: Bachelor of Computer Science from 🇰🇭
-- 2016: Senior iOS Instructor @ KSHRD
-- 2018: Master's in MIS from 🇰🇷
-- 2020: Senior Software Engineer @ TSC
+- 2016: Senior iOS Instructor @ [KSHRD](https://www.facebook.com/ksignhrd)
+- 2018: Master's in MIS @ [CBNU](https://www.chungbuk.ac.kr) from 🇰🇷
+- 2020: Senior Software Engineer @ [TSC](https://www.techostartup.center)
 
 **Personal Stuffs:**
 
